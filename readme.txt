@@ -1,0 +1,1 @@
+Module 8 of freecodecamp site on Javascript studies on HTML with CSS - How to use accessibility tools such as keyboard shortcuts, ARIA attributes, and design best practices in order to make a webpage easy to use for all people – even people with disabilities.
